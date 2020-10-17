@@ -1,9 +1,8 @@
 import React from 'react';
-import Route from './routes';
-
 import Routes from './routes';
 
 //css
+import 'leaflet/dist/leaflet.css'
 import './styles/global.css'
 
 
